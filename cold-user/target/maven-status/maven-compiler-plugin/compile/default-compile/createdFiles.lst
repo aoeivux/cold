@@ -1,0 +1,6 @@
+com\aoeivux\cold\user\service\impl\SysUserServiceImpl.class
+com\aoeivux\cold\user\controller\SysLoginController.class
+com\aoeivux\cold\user\service\SysUserService.class
+com\aoeivux\UserApplication.class
+com\aoeivux\cold\user\service\SysUserTokenService.class
+com\aoeivux\cold\user\service\impl\SysUserTokenServiceImpl.class

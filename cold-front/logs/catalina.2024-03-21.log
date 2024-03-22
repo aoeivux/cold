@@ -1,0 +1,96 @@
+21-Mar-2024 10:12:12.450 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/8.5.72
+21-Mar-2024 10:12:12.455 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Oct 1 2021 15:15:33 UTC
+21-Mar-2024 10:12:12.456 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      8.5.72.0
+21-Mar-2024 10:12:12.457 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 10
+21-Mar-2024 10:12:12.465 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+21-Mar-2024 10:12:12.465 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+21-Mar-2024 10:12:12.465 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     C:\Users\Aoeivuxt\.jdks\azul-11.0.22
+21-Mar-2024 10:12:12.466 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    11.0.22+7-LTS
+21-Mar-2024 10:12:12.466 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Azul Systems, Inc.
+21-Mar-2024 10:12:12.466 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\Projects\cold\cold-front
+21-Mar-2024 10:12:12.466 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     D:\Projects\cold\cold-front
+21-Mar-2024 10:12:12.466 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.lang=ALL-UNNAMED
+21-Mar-2024 10:12:12.466 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.io=ALL-UNNAMED
+21-Mar-2024 10:12:12.467 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.util=ALL-UNNAMED
+21-Mar-2024 10:12:12.467 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+21-Mar-2024 10:12:12.468 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+21-Mar-2024 10:12:12.468 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=D:\Projects\cold\cold-front\conf\logging.properties
+21-Mar-2024 10:12:12.469 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-Mar-2024 10:12:12.470 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+21-Mar-2024 10:12:12.470 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+21-Mar-2024 10:12:12.471 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dignore.endorsed.dirs=
+21-Mar-2024 10:12:12.471 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=D:\Projects\cold\cold-front
+21-Mar-2024 10:12:12.473 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=D:\Projects\cold\cold-front
+21-Mar-2024 10:12:12.473 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=D:\Projects\cold\cold-front\temp
+21-Mar-2024 10:12:12.474 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 使用APR版本[1.7.0]加载了基于APR的Apache Tomcat本机库[1.2.31]。
+21-Mar-2024 10:12:12.483 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR功能：IPv6[true]、sendfile[true]、accept filters[false]、random[true]。
+21-Mar-2024 10:12:12.485 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL配置：useAprConnector[false]，useOpenSSL[true]
+21-Mar-2024 10:12:12.498 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL成功初始化 [OpenSSL 1.1.1l  24 Aug 2021]
+21-Mar-2024 10:12:12.537 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8000"]
+21-Mar-2024 10:12:13.017 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+21-Mar-2024 10:12:13.027 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1891 ms
+21-Mar-2024 10:12:13.078 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+21-Mar-2024 10:12:13.079 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/8.5.72]
+21-Mar-2024 10:12:13.098 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Projects\cold\cold-front\webapps\cold]
+21-Mar-2024 10:12:13.665 警告 [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom 使用[SHA1PRNG]创建会话ID生成的SecureRandom实例花费了[373]毫秒。
+21-Mar-2024 10:12:13.691 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Projects\cold\cold-front\webapps\cold]的部署已在[593]毫秒内完成
+21-Mar-2024 10:12:13.692 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Projects\cold\cold-front\webapps\docs]
+21-Mar-2024 10:12:13.720 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Projects\cold\cold-front\webapps\docs]的部署已在[27]毫秒内完成
+21-Mar-2024 10:12:13.725 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Projects\cold\cold-front\webapps\examples]
+21-Mar-2024 10:12:14.126 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Projects\cold\cold-front\webapps\examples]的部署已在[400]毫秒内完成
+21-Mar-2024 10:12:14.130 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Projects\cold\cold-front\webapps\host-manager]
+21-Mar-2024 10:12:14.179 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Projects\cold\cold-front\webapps\host-manager]的部署已在[49]毫秒内完成
+21-Mar-2024 10:12:14.183 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Projects\cold\cold-front\webapps\manager]
+21-Mar-2024 10:12:14.226 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Projects\cold\cold-front\webapps\manager]的部署已在[43]毫秒内完成
+21-Mar-2024 10:12:14.233 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Projects\cold\cold-front\webapps\ROOT]
+21-Mar-2024 10:12:14.272 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Projects\cold\cold-front\webapps\ROOT]的部署已在[39]毫秒内完成
+21-Mar-2024 10:12:14.281 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8000"]
+21-Mar-2024 10:12:14.300 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 1273 ms
+21-Mar-2024 20:25:39.705 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/8.5.72
+21-Mar-2024 20:25:39.714 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Oct 1 2021 15:15:33 UTC
+21-Mar-2024 20:25:39.714 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      8.5.72.0
+21-Mar-2024 20:25:39.715 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 10
+21-Mar-2024 20:25:39.716 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+21-Mar-2024 20:25:39.716 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+21-Mar-2024 20:25:39.716 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     C:\Users\Aoeivuxt\.jdks\azul-11.0.22
+21-Mar-2024 20:25:39.716 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    11.0.22+7-LTS
+21-Mar-2024 20:25:39.716 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Azul Systems, Inc.
+21-Mar-2024 20:25:39.717 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\Projects\cold\cold-front
+21-Mar-2024 20:25:39.717 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     D:\Projects\cold\cold-front
+21-Mar-2024 20:25:39.717 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.lang=ALL-UNNAMED
+21-Mar-2024 20:25:39.717 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.io=ALL-UNNAMED
+21-Mar-2024 20:25:39.717 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.util=ALL-UNNAMED
+21-Mar-2024 20:25:39.718 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+21-Mar-2024 20:25:39.718 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+21-Mar-2024 20:25:39.719 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=D:\Projects\cold\cold-front\conf\logging.properties
+21-Mar-2024 20:25:39.719 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-Mar-2024 20:25:39.719 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+21-Mar-2024 20:25:39.720 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+21-Mar-2024 20:25:39.720 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dignore.endorsed.dirs=
+21-Mar-2024 20:25:39.720 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=D:\Projects\cold\cold-front
+21-Mar-2024 20:25:39.721 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=D:\Projects\cold\cold-front
+21-Mar-2024 20:25:39.721 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=D:\Projects\cold\cold-front\temp
+21-Mar-2024 20:25:39.722 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 使用APR版本[1.7.0]加载了基于APR的Apache Tomcat本机库[1.2.31]。
+21-Mar-2024 20:25:39.723 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR功能：IPv6[true]、sendfile[true]、accept filters[false]、random[true]。
+21-Mar-2024 20:25:39.724 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL配置：useAprConnector[false]，useOpenSSL[true]
+21-Mar-2024 20:25:39.738 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL成功初始化 [OpenSSL 1.1.1l  24 Aug 2021]
+21-Mar-2024 20:25:39.778 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8000"]
+21-Mar-2024 20:25:40.212 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+21-Mar-2024 20:25:40.222 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 906 ms
+21-Mar-2024 20:25:40.277 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+21-Mar-2024 20:25:40.277 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/8.5.72]
+21-Mar-2024 20:25:40.296 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Projects\cold\cold-front\webapps\cold]
+21-Mar-2024 20:25:40.817 警告 [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom 使用[SHA1PRNG]创建会话ID生成的SecureRandom实例花费了[331]毫秒。
+21-Mar-2024 20:25:40.842 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Projects\cold\cold-front\webapps\cold]的部署已在[546]毫秒内完成
+21-Mar-2024 20:25:40.843 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Projects\cold\cold-front\webapps\docs]
+21-Mar-2024 20:25:40.862 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Projects\cold\cold-front\webapps\docs]的部署已在[19]毫秒内完成
+21-Mar-2024 20:25:40.864 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Projects\cold\cold-front\webapps\examples]
+21-Mar-2024 20:25:41.197 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Projects\cold\cold-front\webapps\examples]的部署已在[333]毫秒内完成
+21-Mar-2024 20:25:41.200 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Projects\cold\cold-front\webapps\host-manager]
+21-Mar-2024 20:25:41.232 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Projects\cold\cold-front\webapps\host-manager]的部署已在[31]毫秒内完成
+21-Mar-2024 20:25:41.235 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Projects\cold\cold-front\webapps\manager]
+21-Mar-2024 20:25:41.262 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Projects\cold\cold-front\webapps\manager]的部署已在[27]毫秒内完成
+21-Mar-2024 20:25:41.266 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Projects\cold\cold-front\webapps\ROOT]
+21-Mar-2024 20:25:41.288 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Projects\cold\cold-front\webapps\ROOT]的部署已在[22]毫秒内完成
+21-Mar-2024 20:25:41.307 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8000"]
+21-Mar-2024 20:25:41.316 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 1093 ms
